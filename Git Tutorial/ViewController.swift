@@ -11,7 +11,12 @@ import UIKit
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
-        super.viewDidLoad()
+
+
+        let message = "Hello Git!"
+
+        print(message)
+
         // Do any additional setup after loading the view, typically from a nib.
     }
 
